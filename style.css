@@ -1,0 +1,51 @@
+* {
+    background-color: #ffe4c4; 
+}  
+
+#brother {
+    text-align: center; 
+    text-shadow: blueviolet;  
+} 
+
+
+
+.protest-revolution-regular {
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+
+  .great-vibes-regular {
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    font-style: normal;
+  } 
+
+  div > img {
+    border: 20px solid black; 
+    background-color: gold; 
+  }
+          
+    
+    
+
+  .note > img {
+    float: left;    
+    border: gold;
+    
+
+  }  
+
+  .note > p {
+    background-color: antiquewhite;
+  }
+h6 {
+    text-align: end; 
+    color: red;
+}
+  
+
+  
+  
